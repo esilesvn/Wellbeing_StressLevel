@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/><img src="https://github.com/esilesvn/Wellbeing_StressLevel/blob/master/images/icon_wellbeing.png" alt="Wellbeing Icon" width="120"/>
 
 # Well-being & lifestyle
 Elise
